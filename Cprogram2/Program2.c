@@ -23,7 +23,7 @@ int main(){
     int total_pts = 0;
     while(1){
         printf("Enter 0 or 1 to STOP ");
-        printf("Enter the number of points scored: ");
+        printf("Enter the NFL score: ");
         scanf("%d", &total_pts);
 
         for(int i=0; i<=total_pts/tdtp_pts; i++){
