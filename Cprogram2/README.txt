@@ -38,7 +38,3 @@ Enter the NFL score: 25
 0 TD + 2pt 0 TD + FG 0 TD 2 3pt FG 0 Safety
 0 TD + 2pt 0 TD + FG 1 TD 1 3pt FG 0 Safety
 0 TD + 2pt 1 TD + FG 0 TD 1 3pt FG 1 Safety
-
-
-Enter 0 or 1 to STOP
-Enter the NFL score: 0
